@@ -43,11 +43,8 @@
 # 실행방법
 <br>
 
-1. configs 파일 root_path 수정 (경로 다를 경우)
-2. model_configs 파일 root_path 수정 (경로 다를 경우)
-3. Flask_restfulAPI.py 실행 (ip수정)
-4. 클라이언트에서 질문입력, 결과출력
-
+--- configs 파일 root_path 수정 (경로 다를 경우)
+--- model_configs 파일 root_path 수정 (경로 다를 경우)
 
 
 @실행 방법
